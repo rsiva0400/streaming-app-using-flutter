@@ -4,7 +4,5 @@
 3. Shared Preferences for local Storage
 4. Supabase for Cloud Storage
 
-# Refence UI
-![Refence UI](reference Ui.jpg)
 # Demo
 https://drive.google.com/file/d/1K6FtQI04yflitsDhrzAgLxTw8oxZlk-8/view?usp=drivesdk
